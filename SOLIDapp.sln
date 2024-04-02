@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLIDapp.Domain", "SOLIDapp.Domain\SOLIDapp.Domain.csproj", "{E04E2013-0140-48A1-B148-9337737070FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLIDapp.Tests", "SOLIDapp.Tests\SOLIDapp.Tests.csproj", "{91FA3E57-5555-467E-9091-F7363052860E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E04E2013-0140-48A1-B148-9337737070FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E04E2013-0140-48A1-B148-9337737070FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E04E2013-0140-48A1-B148-9337737070FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E04E2013-0140-48A1-B148-9337737070FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91FA3E57-5555-467E-9091-F7363052860E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91FA3E57-5555-467E-9091-F7363052860E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91FA3E57-5555-467E-9091-F7363052860E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91FA3E57-5555-467E-9091-F7363052860E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
